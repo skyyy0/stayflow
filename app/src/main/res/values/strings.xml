@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StayFlow</string>
+    <string name="developer_credit">Developer: Sky</string>
+    <string name="url_input_placeholder">Masukkan link web atau cari…</string>
+    <string name="action_open_web">Buka Web</string>
+    <string name="action_paste_link">Tempel</string>
+    <string name="shield_active_label">StayFlow Aktif</string>
+    <string name="shield_standby_label">StayFlow Siaga</string>
+    <string name="exit_confirm_prompt">Tekan kembali sekali lagi untuk menutup tab ke Beranda</string>
+</resources>

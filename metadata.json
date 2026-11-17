@@ -1,0 +1,6 @@
+{
+  "name": "StayFlow",
+  "description": "Browser fokus dengan sesi web tetap berjalan saat pindah aplikasi, timer real-time tanpa jeda, layar tetap menyala, dan pelindung anti-blokir oleh developer Sky.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

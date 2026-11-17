@@ -1,0 +1,43 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Dark Obsidian & Emerald Shield Palette
+val DarkBackground = Color(0xFF0B1118)
+val DarkSurface = Color(0xFF111923)
+val DarkSurfaceVariant = Color(0xFF192433)
+val DarkPrimary = Color(0xFF00D2A0)
+val DarkOnPrimary = Color(0xFF00291E)
+val DarkPrimaryContainer = Color(0xFF004D3B)
+val DarkOnPrimaryContainer = Color(0xFF82F8D4)
+val DarkSecondary = Color(0xFF38BDF8)
+val DarkOnSecondary = Color(0xFF002738)
+val DarkSecondaryContainer = Color(0xFF0C3D57)
+val DarkOnSecondaryContainer = Color(0xFFB8E6FF)
+val DarkTertiary = Color(0xFFFFB020)
+val DarkOnTertiary = Color(0xFF331D00)
+val DarkError = Color(0xFFFF5C77)
+val DarkOnBackground = Color(0xFFEDF3FA)
+val DarkOnSurface = Color(0xFFEDF3FA)
+val DarkOnSurfaceVariant = Color(0xFF94A6BC)
+val DarkOutline = Color(0xFF28374A)
+
+// Light Crisp Slate & Emerald Palette
+val LightBackground = Color(0xFFF4F7FB)
+val LightSurface = Color(0xFFFFFFFF)
+val LightSurfaceVariant = Color(0xFFE6EDF5)
+val LightPrimary = Color(0xFF008B6B)
+val LightOnPrimary = Color(0xFFFFFFFF)
+val LightPrimaryContainer = Color(0xFFCBF7E9)
+val LightOnPrimaryContainer = Color(0xFF00291E)
+val LightSecondary = Color(0xFF0284C7)
+val LightOnSecondary = Color(0xFFFFFFFF)
+val LightSecondaryContainer = Color(0xFFD8F0FE)
+val LightOnSecondaryContainer = Color(0xFF042C44)
+val LightTertiary = Color(0xFFD97706)
+val LightOnTertiary = Color(0xFFFFFFFF)
+val LightError = Color(0xFFDC2626)
+val LightOnBackground = Color(0xFF0F172A)
+val LightOnSurface = Color(0xFF0F172A)
+val LightOnSurfaceVariant = Color(0xFF475569)
+val LightOutline = Color(0xFFCBD5E1)
