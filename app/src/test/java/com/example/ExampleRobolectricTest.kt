@@ -63,6 +63,8 @@ class ExampleRobolectricTest {
     fun `KeepAliveWebView keeps window visibility and focus active across screen-off and app-switch`() {
         val context = ApplicationProvider.getApplicationContext<Context>()
         val webView = KeepAliveWebView(context)
+        assertTrue(webView.isFocusable)
+        assertTrue(webView.isFocusableInTouchMode)
         webView.keepAliveInBackground = true
 
         assertEquals(View.VISIBLE, webView.resolveEffectiveWindowVisibility(View.GONE))
